@@ -41,5 +41,6 @@ include(
     ":hificore",
     ":misc:audiofxfwd",
     ":misc:audiofxstub",
-    ":misc:alacdecoder"
+    ":misc:alacdecoder",
+    ":lib-common"
 )
